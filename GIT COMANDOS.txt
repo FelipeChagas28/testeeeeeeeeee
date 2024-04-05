@@ -1,0 +1,4 @@
+PRA TROCAR DE MASTER PRA MAIN É git branch -M main
+
+git config --global user.email "felipeschagas28@gmail.com"
+git config --global user.name "FelipeChagas28"
